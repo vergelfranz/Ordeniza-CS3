@@ -1,0 +1,38 @@
+body {
+	background-image: url("image.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+h1 {
+	text-align: center; 
+	background-color: #b9fb92;
+	font-family: Sans-serif;
+	border: 2px dotted blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 250px;
+	margin-bottom: 20px;
+}
+p {
+	text-align: justify;
+	font-style: italic;
+	background-color: hsl(150, 50%, 70%);
+	padding: 20px;
+	border-bottom: 3px solid black;
+	border-top: 3px double black;
+	border-right: 3px dotted black;
+	border-left: 3px dashed black;
+	width: 500px;
+}
+span {
+	font-style: bold;
+	font-style: italic;
+	color: rgb(2, 3, 250);
+	margin-left: 2px;
+	margin-right: 5px;
+}
+	
