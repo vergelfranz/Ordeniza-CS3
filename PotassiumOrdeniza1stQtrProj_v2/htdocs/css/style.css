@@ -93,3 +93,10 @@ body {
 	text-align: center;
 	background-color: #ffb3b3;
 }
+#credits {
+	position: relative;
+	top: 150px;
+	color: white;
+	font-size: 20px;
+	text-align: center;	
+}
