@@ -72,6 +72,13 @@ body {
 	text-align: center;
 	background-color: #80ccff;
 }
+#credits {
+	position: relative;
+	top: 150px;
+	color: white;
+	font-size: 20px;
+	text-align: center;	
+}
 
 
 	
