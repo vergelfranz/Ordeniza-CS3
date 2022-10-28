@@ -80,3 +80,10 @@ body {
 .images {
 	border-radius: 30px;
 }
+#link {
+	font-family: verdana;
+	font-style: underlined;
+	font-size: 30px;
+	border-style: double border;
+	border-radius: 40px;
+}
