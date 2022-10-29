@@ -73,13 +73,17 @@ body {
 	margin-right: 10px;
 	font-family: helvetica;
 	text-indent: 50px;
-	font-size: 23px;
+	font-size: 20px;
 	font-style: bold;
 	color: #003300;
+	overflow: auto;
 }
 .images {
 	border-radius: 30px;
+	transition: width 1s;
 }
+.images:hover {
+	width: 300px;
 #link {
 	position: relative;
 	top: 100px;
